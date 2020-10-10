@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cloudfaq.nl/main/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eng"
+                href="https://cloudfaq.nl/eng/main/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudfaq.nl/main/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cloudfaq.nl/kittens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cloudfaq.nl/kittens-specific/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cloudfaq.nl/errors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eng"
+                href="https://cloudfaq.nl/eng/errors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudfaq.nl/errors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cloudfaq.nl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eng"
+                href="https://cloudfaq.nl/eng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudfaq.nl/"
+                />
+  </url>
+  
+</urlset>
