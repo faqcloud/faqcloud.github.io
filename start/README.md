@@ -1,3 +1,0 @@
----
-Permanlink: index.html
----
