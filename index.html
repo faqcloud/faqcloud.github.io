@@ -169,6 +169,34 @@
               </div>
             </header>
             <div class="embed">
+              <video autoplay loop poster="static/videos/paradijs.png">
+                <source src="static/videos/paradijs.mp4" type="video/mp4">
+              </video>
+            </div>
+            <div class="wrap zoomIn">
+              <div class="alignleft size-50 bg-trans-dark">
+                <h2><strong>Alsof je met verlof bent</strong> </h2>
+                <p class="text-intro">Het maakt niet uit wat er van je wordt gevraagd. Zonder een moment van twijfel is alles binnen handbereik. Met vrijheid voor eigen invulling koppel je de beste zinnen aan je chatflow.</p>
+                <p>
+                  <a href="http://cloudfaq.main2.tcloud.kpn.org/" class="button" title="Open KPN CloudFAQ">
+                    <svg class="fa-internet-explorer">
+                      <use xlink:href="#fa-internet-explorer"></use>
+                    </svg>
+                    Open KPN CloudFAQ
+                  </a>
+                </p>
+              </div>
+          </section>
+
+          <section class="fullscreen">
+            <header>
+              <div class="wrap">
+                <p>
+                  <span class="alignleft"><a href="http://cloudfaq.nl" title="CloudFAQ"><img src="static/images/logo_kl.png" alt="CloudFAQ"></a></span>
+                </p>
+              </div>
+            </header>
+            <div class="embed">
               <video autoplay loop poster="static/videos/pad.png">
                 <source src="static/videos/pad.mp4" type="video/mp4">
               </video>
@@ -204,7 +232,7 @@
     <!-- Required -->
     <script src="static/js/webslides.js"></script>
     <script>
-      window.ws = new WebSlides();
+      window.ws = new WebSlides({ autoslide: 8600 });
     </script>
   
     <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
